@@ -1,0 +1,1 @@
+"""Core engine package: config parsing, profile lifecycle, diffing."""
