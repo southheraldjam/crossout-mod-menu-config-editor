@@ -1,0 +1,1 @@
+"""Dataclasses describing profile and module structures."""
