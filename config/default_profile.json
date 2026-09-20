@@ -1,0 +1,20 @@
+{
+  "profile_name": "default",
+  "module_toggles": [
+    { "module_id": "radar_overlay", "enabled": true },
+    { "module_id": "part_highlighter", "enabled": false },
+    { "module_id": "damage_readout", "enabled": true },
+    { "module_id": "loadout_quickswitch", "enabled": false },
+    { "module_id": "fps_counter", "enabled": true }
+  ],
+  "hotkeys": {
+    "toggle_menu": "F2",
+    "toggle_radar": "F3",
+    "cycle_loadout": "F4"
+  },
+  "overlay_layout": {
+    "anchor": "top-left",
+    "opacity": 0.85,
+    "scale": 1.0
+  }
+}
