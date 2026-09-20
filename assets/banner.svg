@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0f14"/>
+      <stop offset="50%" stop-color="#151a21"/>
+      <stop offset="100%" stop-color="#1c2530"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff5c2b"/>
+      <stop offset="100%" stop-color="#ffb400"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="1200" height="360" fill="url(#bg)"/>
+
+  <circle cx="100" cy="60" r="120" fill="#ff5c2b" opacity="0.07"/>
+  <circle cx="1120" cy="300" r="150" fill="#ffb400" opacity="0.06"/>
+  <ellipse cx="950" cy="70" rx="90" ry="50" fill="#ff5c2b" opacity="0.08"/>
+  <ellipse cx="220" cy="310" rx="140" ry="60" fill="#ffb400" opacity="0.05"/>
+  <circle cx="600" cy="180" r="220" fill="#ffffff" opacity="0.03"/>
+
+  <line x1="80" y1="40" x2="380" y2="40" stroke="#ff5c2b" stroke-width="1.5" opacity="0.35"/>
+  <line x1="820" y1="320" x2="1120" y2="320" stroke="#ffb400" stroke-width="1.5" opacity="0.35"/>
+
+  <path d="M 0 300 L 60 260 L 120 300 L 60 340 Z" fill="#ff5c2b" opacity="0.08"/>
+  <path d="M 1080 20 L 1140 0 L 1200 20 L 1140 40 Z" fill="#ffb400" opacity="0.08"/>
+
+  <text x="600" y="150" font-family="Segoe UI, Arial, sans-serif" font-size="34" text-anchor="middle">⚙️</text>
+
+  <text x="600" y="200" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="700" fill="#ffffff" text-anchor="middle">Crossout Mod Menu</text>
+
+  <rect x="520" y="222" width="160" height="3" rx="1.5" fill="url(#accent)"/>
+
+  <text x="600" y="260" font-family="Segoe UI, Arial, sans-serif" font-size="19" fill="#c9d1d9" text-anchor="middle">Config editor for Crossout mod menu users tired of scattered files —</text>
+  <text x="600" y="286" font-family="Segoe UI, Arial, sans-serif" font-size="19" fill="#c9d1d9" text-anchor="middle">edit, swap, and store presets locally.</text>
+</svg>
